@@ -18,9 +18,9 @@
 </p>
 
 <div align="center">
-  <h3 align="center">Watch my contribution graph get eaten by the snake 🐍</h3>
+
   
-   <img src="https://github.com/YOMARCOS/YOMARCOS/blob/output/github-contribution-grid-snake.svg" alt="animated" />
+   
 </div>
 
 <h3 align="center">Technologies I work</h3>
@@ -43,7 +43,7 @@
     <img height="25px" src="https://img.shields.io/badge/-LINKEDIN-000000?style=flat-square&logo=Linkedin&logoColor=7e3ace&link=linkedin.com/in/yomarcos/" />
   </a>
   
-  <a href="https://www.instagram.com/yomasrcoant/">
+  <a href="https://www.instagram.com/yomaRcoant/">
     <img height="25px" src="https://img.shields.io/badge/-INSTAGRAM-000000?style=flat-square&logo=Instagram&logoColor=7e3ace&link=https://www.instagram.com/yomarcoant/" />
   </a>
 

@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/YOMARCOS/YOMARCOS/blob/main/gifs/readme-my-name2.gif" alt="animated" />
-</div>
+
 
 <p align="center">
   HOLA QUE TAL? <br>
@@ -15,14 +13,14 @@
 <h3 align="center">My GitHub Analytics</h3>
 
 <p align="center">
-  <img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?&username=yomarcos&hide=prs,issues,contribs&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&theme=midnight" />
-   <img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yomarcos&layout=compact&theme=midnight&hide_border=true" />
+  <img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?&username=YOMARCOS&hide=prs,issues,contribs&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&theme=midnight" />
+   <img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YOMARCOS&layout=compact&theme=midnight&hide_border=true" />
 </p>
 
 <div align="center">
   <h3 align="center">Watch my contribution graph get eaten by the snake 🐍</h3>
   
-  <img src="https://github.com/yomarcos/yomarcos/blob/output/github-contribution-grid-snake.svg" alt="animated" />
+   <img src="https://github.com/YOMARCOS/YOMARCOS/blob/output/github-contribution-grid-snake.svg" alt="animated" />
 </div>
 
 <h3 align="center">Technologies I work</h3>

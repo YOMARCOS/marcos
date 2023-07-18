@@ -5,7 +5,7 @@
    Eu sou um Full-Stack Developer em formação pela Growdev.
 </p>
 <p align="center">
-   "O segredo é conhecer muito bem a ilha e depois se lançar ao mar."
+   "Em construção."
 </p>
 
 ---

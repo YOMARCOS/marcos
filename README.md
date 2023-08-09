@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/YOMARCOS/YOMARCOS/blob/main/banner.png" alt="Banner">
-</p>
 
 <p align="center">
   <b>HOLA, QUE TAL?</b><br>
@@ -19,9 +16,6 @@
   <img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YOMARCOS&layout=compact&theme=midnight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/YOMARCOS/YOMARCOS/blob/main/tech-stack.png" alt="Tech Stack">
-</p>
 
 ---
 
